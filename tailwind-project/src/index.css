@@ -1,0 +1,15 @@
+@import "tailwindcss";
+#right::-webkit-scrollbar{
+    display: none;
+}
+#right-card{
+    animation: scroll 25s linear infinite;
+}
+/* @keyframes scroll{
+    from{
+        transform: translateX(0);
+    }
+    to{
+        transform: translateX(-50%);
+    }
+} */
