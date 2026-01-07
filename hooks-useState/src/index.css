@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background: #000;
+  color: white;
+}
+h1{
+  padding: 50px;
+  background-color: gray;
+  width: 60px;
+  border-radius: 10px;
+  margin: 20px;
+  text-align: center;
+}
+button{
+  padding: 20px 10px;
+  background-color: gray;
+  width: 100px;
+  border-radius: 10px;
+  align-self: center;
+  margin: 5px;
+}
