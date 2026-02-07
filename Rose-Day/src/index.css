@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+#que {
+  /* width: 50px;
+  height: 4px;
+  background: red; */
+  animation: move 20s infinite linear;
+}
+
+@keyframes move {
+  from {
+    transform: translateX(300px);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
